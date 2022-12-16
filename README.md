@@ -1,3 +1,3 @@
 # Rucksackproblem
 
-## Source code for a greedy algorithm
+Source code for a greedy and bruteforce algorithm
